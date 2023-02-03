@@ -1,0 +1,1357 @@
+Team Management
+
+What is Team
+
+ A team is a group of people who work together toward a common goal. Teams have defined membership (which can be either large or small) and a set of activities to take part in. People on a team collaborate on sets of related tasks that are required to achieve an objective. Each member is responsible for contributing to the team, but the group as a whole is responsible for the team’s success.
+
+
+
+Types of Teams
+
+•Functional Teams
+
+•Cross-functional Teams
+
+•Matrix Teams
+
+•Contract Teams
+
+•Self-managed Teams
+
+•Virtual Teams
+
+Functional Teams
+
+These teams are permanent and always include members of the same department with different responsibilities. A manager is responsible for everything, and everyone reports to him. These types of teams are more likely to be found in companies that incorporate traditional project management
+
+
+
+Advantages:
+
+• Handles routine work
+
+ • Line management has control of projects
+
+• Pools technical and professional expertise
+
+Disadvantages: 
+
+• Difficult communication across areas
+
+• Pushing the decision-making process upwards
+
+• Inflexible
+
+Cross-functional Teams 
+
+Cross-functional teams are made up of members from various departments. These teams tackle specific tasks that require different inputs and expertise. Even though cross functional teams are becoming increasingly popular worldwide, a recent study has proven that a whopping 75% of all cross functional teams are dysfunctional.
+
+
+
+Advantages:
+
+ • Greater speed of task completion
+
+• Can handle a wide array of projects
+
+ • Source of unconventional ideas
+
+Disadvantages:
+
+ • Takes a long time to develop cohesion
+
+ • Management can prove to be challenging
+
+• Diversity can cause conflict
+
+Matrix Teams 
+
+These teams are characterized by a “two boss system”, where an individual report to a different manager for various aspects of his work. This type of team is the product of the Matrix management approach.
+
+Let’s say Jeff, a designer, was given the task of making a design for a new product that marketing provided an idea for and that R&D deemed feasible. By being included in this project, Jeff all of a sudden has two bosses: the first one is a project manager who only cares about the design being done, while the other one is his functional line manager who’s in charge of Jeff’s training, career development, and routine tasks.
+
+While this approach helps the top management retain control over the project without being included in day-to-day decisions, employees are often faced with challenges of dual command: Jeff now has to report to two managers, who might give him conflict instructions, which causes confusion and frustration.
+
+
+
+
+
+Advantages:
+
+• Acceptable to traditional managers
+
+• Flexibility for assigned personnel
+
+• Top management controls projects, stays out of daily activities
+
+ 
+
+ Disadvantages
+
+• Dual reporting
+
+• The team leader is usually unable to choose who will be on the project
+
+• Difficult performance appraisal
+
+Contract Teams
+
+ Contract teams are outsourced teams that are tied down by a contract and brought in to complete a part of a project. After the project is completed and the contract has ended, the client can cut all ties to the team, 
+
+
+
+Advantages:
+
+• Easy employment of experts
+
+• A team can use the existing management structure
+
+• No need for client training
+
+ Disadvantages:
+
+• Difficult assessment of project progress for the client
+
+ • Difficult to resolve political and organizational issues
+
+• The client is the only judge of success
+
+Self-managed Teams
+
+Typically, members of self-managed teams are employees of the same organization who work together, and even though they have a wide array of objectives, their aim is to reach a common goal. There is no manager nor authority figure, so it is up to members to determine rules and expectations, to solve problems when they arise, and to carry shared responsibility for the results.
+
+One of the first major companies that decided to implement self-managed teams was software company Valve in 2012. Around 300 employees have neither bosses nor a formal division of labor. Instead, they are expected to organize themselves around individual or group projects and are obligated to take care of customer support themselves. The work ethic at Valve relied heavily on individual responsibility.
+
+When setting up a self-managed team, you have to define two parameters:
+
+Levels of responsibility
+The autonomy that is given to the self-managed team
+Research has shown that employees in self-managed teams feel more useful on the job and find their jobs more challenging, although there is no proof that they are actually more productive.
+
+
+
+ 
+
+Advantages:
+
+Autonomy improves employee motivation;
+Team members can manage their own time and handle tasks when it suits them;
+You don’t have to pay for an office;
+Shared responsibility instills pride in team accomplishments.
+Disadvantages:
+
+The lack of hierarchical authority can put personal relationships over good judgment;
+It can lead to conformity that suppresses creativity and critical thinking;
+An added layer of responsibility is time-consuming and requires skills that some people simply don’t have;
+Training time and costs are higher due to a broader scope of duties.
+Virtual teams
+ Are made up of people who work in different physical locations and who rely heavily on collaboration tools to get things done together. Virtual teams provide members with a better life-work balance and allow business owners to employ the best experts in the field, regardless of the fact that they live on another continent.
+
+One of the organizations that had the most success with its virtual teams is Automattic, best known by their company, WordPress. Over 100 employees in 43 different countries use WordPress plugin P2 that enables them to communicate with each other in real-time. Also, when a new employee gets on board he receives a $2.000 stipend 
+to improve his home office, gets the latest Macbook, and an open “time off” policy to use to take free time whenever they need. It may seem a little farfetched, but this policy is one of the key factors behind Automatic’s success: WordPress is now used by 27.5% of websites globally.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Developmental Sequence In Small Groups
+0 comments
+
+Psychologist Bruce Tuckman first came up with the memorable phrase "forming, storming, norming, and performing" in his 1965 article, "Developmental Sequence in Small Groups." He used it to describe the path that most teams follow on their way to high performance. Later, he added a fifth stage, "adjourning" (which is sometimes known as "mourning"). Let's look at each stage in more detail. 
+
+Forming 
+
+In this stage, most team members are positive and polite. Some are anxious, as they haven't fully understood what work the team will do. Others are simply excited about the task ahead. As leader, you play a dominant role at this stage, because team members' roles and responsibilities aren't clear. This stage can last for some time, as people start to work together, and as they make an effort to get to know their new colleagues 
+
+
+
+Storming 
+
+Next, the team moves into the storming phase, where people start to push against the boundaries established in the forming stage. This is the stage where many teams fail. Storming often starts where there is a conflict between team members' natural working styles. People may work in different ways for all sorts of reasons but, if differing working styles cause unforeseen problems, they may become frustrated. Storming can also happen in other situations. For example, team members may challenge your authority, or jockey for position as their roles are clarified. Or, if you haven't defined clearly how the team will work, people may feel overwhelmed by their workload, or they could be uncomfortable with the approach you're using. 
+
+Some may question the worth of the team's goal, and they may resist taking on tasks. Team members who stick with the task at hand may experience stress, particularly as they don't have the support of established processes or strong relationships with their colleagues. 
+
+Norming 
+
+Gradually, the team moves into the norming stage. This is when people start to resolve their differences, appreciate colleagues' strengths, and respect your authority as a leader. Now that your team members know one another better, they may socialize together, and they are able to ask one another for help and provide constructive feedback. People develop a stronger commitment to the team goal, and you start to see good progress towards it. There is often a prolonged overlap between storming and norming, because, as new tasks come up, the team may lapse back into behavior from the storming stage. 
+
+Performing 
+
+The team reaches the performing stage, when hard work leads, without friction, to the achievement of the team's goal. The structures and processes that you have set up support this well. As leader, you can delegate much of your work, and you can concentrate on developing team members. It feels easy to be part of the team at this stage, and people who join or leave won't disrupt performance 
+
+Adjourning
+
+Many teams will reach this stage eventually. For example, project teams exist for only a fixed period, and even permanent teams may be disbanded through organizational restructuring. Team members who like routine, or who have developed close working relationships with colleagues, may find this stage difficult, particularly if their future now looks uncertain.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+The Secrets Of Great Teamwork(Research Paper)
+0 comments
+
+About the Research
+
+Over the past 15 years, we’ve studied teams and groups in a variety of contemporary settings. We’ve conducted nine large research projects in global organizations, undertaking more than 300 interviews and 4,200 surveys with team leaders and managers. The teams involved worked on projects in product development, sales, operations, finance, R&D, senior management, and more, in a wide range of industries, including software, professional services, manufacturing, natural resources, and consumer products. In addition, we have conducted executive education sessions on team effectiveness for thousands of team leaders and members; their stories and experiences have also shaped our thinking.
+
+Today’s teams are different from the teams of the past: They’re far more diverse, dispersed, digital, and dynamic (with frequent changes in membership). But while teams face new hurdles, their success still hinges on a core set of fundamentals for group collaboration.
+
+The basics of team effectiveness were identified by J. Richard Hackman, a pioneer in the field of organizational behavior who began studying teams in the 1970s. In more than 40 years of research, he uncovered a groundbreaking insight: What matters most to collaboration is not the personalities, attitudes, or behavioral styles of team members. Instead, what teams need to thrive are certain “enabling conditions.” In our own studies, we’ve found that three of Hackman’s conditions—a compelling direction, a strong structure, and a supportive context—continue to be particularly critical to team success. In fact, today those three requirements demand more attention than ever. But we’ve also seen that modern teams are vulnerable to two corrosive problems—“us versus them” thinking and incomplete information. Overcoming those pitfalls requires a fourth critical condition: a shared mindset.
+
+The key takeaway for leaders is this: Though teams face an increasingly complicated set of challenges, a relatively small number of factors have an outsized impact on their success. Managers can achieve big returns if they understand what those factors are and focus on getting them right
+
+The Enabling Conditions
+
+Let’s explore in greater detail how to create a climate that helps diverse, dispersed, digital, dynamic teams—what we like to call 4-D teams—attain high performance.
+
+Compelling direction.
+
+The foundation of every great team is a direction that energizes, orients, and engages its members. Teams cannot be inspired if they don’t know what they’re working toward and don’t have explicit goals. Those goals should be challenging (modest ones don’t motivate) but not so difficult that the team becomes dispirited. They also must be consequential: People have to care about achieving a 
+
+goal, whether because they stand to gain extrinsic rewards, like recognition, pay, and promotions; or intrinsic rewards, such as satisfaction and a sense of meaning.
+
+On 4-D teams, direction is especially crucial because it’s easy for far-flung members from dissimilar backgrounds to hold different views of the group’s purpose. Consider one global team we studied. All the members agreed that serving their client was their goal, but what that meant varied across locations. Members in Norway equated it with providing a product of the absolute highest quality—no matter what the cost. Their colleagues in the UK, however, felt that if the client needed a solution that was only 75% accurate, the less precise solution would better serve that client. Solving this tension required a frank discussion to reach consensus on how the team as a whole defined its objectives.
+
+Strong structure.
+
+Teams also need the right mix and number of members, optimally designed tasks and processes, and norms that discourage destructive behavior and promote positive dynamics.
+
+High-performing teams include members with a balance of skills. Every individual doesn’t have to possess superlative technical and social skills, but the team overall needs a healthy dose of both. Diversity in knowledge, views, and perspectives, as well as in age, gender, and race, can help teams be more creative and avoid groupthink.
+
+This is one area where 4-D teams often have an advantage. In research we conducted at the World Bank, we found that teams benefited from having a blend of cosmopolitan and local members—that is, people who have lived in multiple countries and speak multiple languages, and people with deep roots in the area they’re working in. Cosmopolitan members bring technical knowledge and skills and expertise that apply in many situations, while locals bring country knowledge and insight into an area’s politics, culture, and tastes. In one of the bank’s teams, this combination proved critical to the success of a project upgrading an urban slum in West Africa. A local member pointed out that a microcredit scheme might be necessary to help residents pay for the new water and sanitation services planned by the team, while a cosmopolitan member shared valuable information about problems faced in trying to implement such programs in other countries. Taking both perspectives into account, the team came up with a more sustainable design for its project.
+
+Adding members is of course one way to ensure that a team has the requisite skills and diversity, but increased size comes with costs. Larger teams are more vulnerable to poor communication, fragmentation, and free riding (due to a lack of accountability). In the executive sessions we lead, we frequently hear managers lament that teams become bloated as global experts are pulled in and more members are recruited to increase buy-in from different locations, divisions, or functions. Team leaders must be vigilant about adding members only when necessary. The aim should be to include the minimum number—and no more. One manager told us that anytime she receives a request to add a team member, she asks what unique value that person will bring to the group and, in cases where the team is already at capacity, which current member will be released.
+
+Team assignments should be designed with equal care. Not every task has to be highly creative or inspiring; many require a certain amount of drudgery. But leaders can make any task more motivating by ensuring that the team is responsible for a significant piece of work from beginning to end, that the team members have a lot of autonomy in managing that work, and that the team receives performance feedback on it.
+
+With 4-D teams, people in different locations often handle different components of a task, which raises challenges. Consider a software design team based in Santa Clara, California, that sends chunks of code to its counterparts in Bangalore, India, to revise overnight. Such 24/7 development is common as firms seek to use time zone differences to their advantage. But in one such team we spoke with, that division of labor was demotivating, because it left the Indian team members with a poor sense of how the pieces of code fit together and with little control over what they did and how. Moreover, the developers in Bangalore got feedback only when what they sent back didn’t fit. Repartitioning the work to give them ownership over an entire module dramatically increased their motivation and engagement and improved the quality, quantity, and efficiency of their work.
+
+Destructive dynamics can also undermine collaborative efforts. We’ve all seen team members withhold information, pressure people to conform, avoid responsibility, cast blame, and so on. Teams can reduce the potential for dysfunction by establishing clear norms—rules that spell out a small number of things members must always do (such as arrive at meetings on time and give everyone a turn to speak) and a small number they must never do (such as interrupt). Instilling such norms is especially important when team members operate across different national, regional, or organizational cultures (and may not share the same view of, for example, the importance of punctuality). And in teams whose membership is fluid, explicitly reiterating norms at regular intervals is key.
+
+Supportive context.
+
+Having the right support is the third condition that enables team effectiveness. This includes maintaining a reward system that reinforces good performance, an information system that provides access to the data needed for the work, and an educational system that offers training, and last—but not least—securing the material resources required to do the job, such as funding and technological assistance. While no team ever gets everything it wants, leaders can head off a lot of problems by taking the time to get the essential pieces in place from the start.
+
+Ensuring a supportive context is often difficult for teams that are geographically distributed and digitally dependent, because the resources available to members may vary a lot. Consider the experience of Jim, who led a new product-development team at General Mills that focused on consumer goods for the Mexican market. While Jim was based in the United States, in Minnesota, some members of his team were part of a wholly owned subsidiary in Mexico. The team struggled to meet its deadlines, which caused friction. But when Jim had the opportunity to visit his Mexican team members, he realized how poor their IT was and how strapped they were for both capital and people—particularly in comparison with the headquarters staff. In that one visit Jim’s frustration turned to admiration for how much his Mexican colleagues were able to accomplish with so little, and he realized that the problems he’d assumed were due to a clash between cultures were actually the result of differences in resources.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Waterfall Model
+0 comments
+
+Waterfall Model is a sequential model that divides software development into pre-defined phases. Each phase must be completed before the next phase can begin with no overlap between the phases. Each phase is designed for performing specific activity during the SDLC phase. It was introduced in 1970 by Winston Royce. 
+
+
+
+
+
+Requirements Gathering and Analysis
+In this phase the requirements are gathered by the business analyst and they are analyzed by the team. Requirements are documented during this phase and clarifications can be sought. The Business Analysts document the requirement based on their discussion with the customer. Going through the requirements and analyzing them has revealed that the project team needs answers to the following questions which were not covered in the requirements document –
+
+Will the new banking application be used in more than one country?
+Do we have to support multiple languages?
+How many users are expected to use the application? etc
+System Design
+The architect and senior members of the team work on the software architecture, high level and low level design for the project. It is decided that the banking application needs to have redundant backup and failover capabilities such that system is accessible at all times. The architect creates the Architecture diagrams and high level / low level design documents.
+
+Implementation
+The development team works on coding the project. They take the design documents / artifacts and ensure that their solution follows the design finalized by the architect. Since the application is a banking application and security was a high priority in the application requirements, they implement several security checks, audit logging features in the application. They also perform several other activities like a senior developer reviewing the other developers code for any issues. Some developers perform static analysis of the code.
+
+Testing
+The testing team tests the complete application and identifies any defects in the application. These defects are fixed by the developers and the testing team tests the fixes to ensure that the defect is fixed. They also perform regression testing of the application to see if any new defects were introduced. Testers with banking domain knowledge were also hired for the project so that they could test the application based on the domain perspective. Security testing teams were assigned to test the security of the banking application.
+
+Deployment
+The team builds and installs the application on the servers which were procured for the banking application. Some of the high level activities include installing the OS on the servers, installing security patches, hardening the servers, installing web servers and application servers, installing the database etc. They also co-ordinate with network and IT administrative teams etc to finally get the application up and running on the production servers.
+
+Maintenance
+During the maintenance phase, the team ensures that the application is running smoothly on the servers without any downtime. Issues that are reported after going live are fixed by the team and tested by the testing team.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Examples of Waterfall Model
+In the olden days, Waterfall model was used to develop enterprise applications like Customer Relationship Management (CRM) systems, Human Resource Management Systems (HRMS), Supply Chain Management Systems, Inventory Management Systems, Point of Sales (POS) systems for Retail chains etc.
+
+Waterfall model was used significantly in the development of software till the year 2000. Even after the Agile manifesto was published in 2001, Waterfall model continued to be used by many organization till the last decade. These days most project follow Agile Methodology, some form of Iterative model or one of the other models depending on their project specific requirement. In the olden days, applications developed in Waterfall Model like CRM Systems, Supply Chain Management Systems etc would usually take a year or longer to develop. With the evolution of technology, there were cases where large scale enterprise systems were developed over a period of 2 to 3 years but were redundant by the time they were completed. There were several reasons for this.
+
+By the time the applications were developed in C, C++ etc, new languages (relatively speaking) like Java, .Net etc would replace them with web based functionality.
+Even if the application was developed using a new technology, factors like more competitors entering the market, cheaper alternatives becoming available, better functionality using newer technologies, change in customers requirement etc. increase the risk of developing an application over several years.
+However, there are some areas where Waterfall model was continued to be preferred.
+
+Consider a system where human life is on the line, where a system failure could result in one or more deaths.
+In some countries, such mishaps could lead to imprisonment for those who are accountable.
+Consider a system where time and money were secondary considerations and human safety was first.
+In such situations, Waterfall model was the preferred approach.
+
+Development of Department Of Defense (DOD), military and aircraft programs followed Waterfall model in many organizations.
+This is because of the strict standards and requirements that have to be followed.
+In such industries, the requirements are known well in advance and contracts are very specific about the deliverable of the project.
+DOD Agencies typically considered Waterfall model to be compatible with their acquisition process and rigorous oversight process required by the government.
+Having said that, even these industries are being disrupted by the use of Iterative model and Agile methodology by organizations like Space X and others. Waterfall model was also used in banking, healthcare, control system for nuclear facilities, space shuttles etc
+
+Advantages of waterfall model
+This model is simple and easy to understand and use.
+It is easy to manage due to the rigidity of the model – each phase has specific deliverables and a review process.
+In this model phases are processed and completed one at a time. Phases do not overlap.
+Waterfall model works well for smaller projects where requirements are clearly defined and very well understood.
+Disadvantages of waterfall model
+Once an application is in the testing stage, it is very difficult to go back and change something that was not well-thought out in the concept stage.
+No working software is produced until late during the life cycle.
+High amounts of risk and uncertainty.
+Not a good model for complex and object-oriented projects.
+Poor model for long and ongoing projects.
+Not suitable for the projects where requirements are at a moderate to high risk of changing.
+When to use the waterfall model
+This model is used only when the requirements are very well known, clear and fixed.
+Product definition is stable.
+Technology is understood.
+There are no ambiguous requirements
+Ample resources with required expertise are available freely
+The project is short.
+In Waterfall model, very less customer interaction is involved during the development of the product. Once the product is ready then only it can be demonstrated to the end users. Once the product is developed and if any failure occurs then the cost of fixing such issues are very high, because we need to update everything from document till the logic. In today’s world, Waterfall model has been replaced by other models like iterative, agile etc.
+
+
+------------------------------------------------------------------------------------------------------------------------
+
+V-Model
+0 comments
+
+V-Model also referred to as the Verification and Validation Model. In this, each phase of SDLC must complete before the next phase starts. It follows a sequential design process same as the waterfall model. Testing of the device is planned in parallel with a corresponding stage of development.
+
+V-model
+
+Verification: It involves a static analysis method (review) done without executing code. It is the process of evaluation of the product development process to find whether specified requirements meet.
+
+Validation: It involves dynamic analysis method (functional, non-functional), testing is done by executing code. Validation is the process to classify the software after the completion of the development process to determine whether the software meets the customer expectations and requirements.
+
+So V-Model contains Verification phases on one side of the Validation phases on the other side. Verification and Validation process is joined by coding phase in V-shape. Thus it is known as V-Model.
+
+There are the various phases of Verification Phase of V-model:
+
+Business requirement analysis: This is the first step where product requirements understood from the customer's side. This phase contains detailed communication to understand customer's expectations and exact requirements.
+System Design: In this stage system engineers analyze and interpret the business of the proposed system by studying the user requirements document.
+Architecture Design: The baseline in selecting the architecture is that it should understand all which typically consists of the list of modules, brief functionality of each module, their interface relationships, dependencies, database tables, architecture diagrams, technology detail, etc. The integration testing model is carried out in a particular phase.
+Module Design: In the module design phase, the system breaks down into small modules. The detailed design of the modules is specified, which is known as Low-Level Design
+Coding Phase: After designing, the coding phase is started. Based on the requirements, a suitable programming language is decided. There are some guidelines and standards for coding. Before checking in the repository, the final build is optimized for better performance, and the code goes through many code reviews to check the performance.
+There are the various phases of Validation Phase of V-model:
+
+Unit Testing: In the V-Model, Unit Test Plans (UTPs) are developed during the module design phase. These UTPs are executed to eliminate errors at code level or unit level. A unit is the smallest entity which can independently exist, e.g., a program module. Unit testing verifies that the smallest entity can function correctly when isolated from the rest of the codes/ units.
+Integration Testing: Integration Test Plans are developed during the Architectural Design Phase. These tests verify that groups created and tested independently can coexist and communicate among themselves.
+System Testing: System Tests Plans are developed during System Design Phase. Unlike Unit and Integration Test Plans, System Tests Plans are composed by the client?s business team. System Test ensures that expectations from an application developer are met.
+Acceptance Testing: Acceptance testing is related to the business requirement analysis part. It includes testing the software product in user atmosphere. Acceptance tests reveal the compatibility problems with the different systems, which is available within the user atmosphere. It conjointly discovers the non-functional problems like load and performance defects within the real user atmosphere.
+When to use V-Model?
+When the requirement is well defined and not ambiguous.
+The V-shaped model should be used for small to medium-sized projects where requirements are clearly defined and fixed.
+The V-shaped model should be chosen when sample technical resources are available with essential technical expertise.
+Advantage (Pros) of V-Model:
+Easy to Understand.
+Testing Methods like planning, test designing happens well before coding.
+This saves a lot of time. Hence a higher chance of success over the waterfall model.
+Avoids the downward flow of the defects.
+Works well for small plans where requirements are easily understood.
+Disadvantage (Cons) of V-Model:
+Very rigid and least flexible.
+Not a good for a complex project.
+Software is developed during the implementation stage, so no early prototypes of the software are produced.
+If any changes happen in the midway, then the test documents along with the required documents, has to be updated.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Incremental Model
+0 comments
+
+Incremental Model is a process of software development where requirements divided into multiple standalone modules of the software development cycle. In this model, each module goes through the requirements, design, implementation and testing phases. Every subsequent release of the module adds function to the previous release. The process continues until the complete system achieved.
+
+
+
+The various phases of incremental model are as follows:
+1. Requirement analysis: In the first phase of the incremental model, the product analysis expertise identifies the requirements. And the system functional requirements are understood by the requirement analysis team. To develop the software under the incremental model, this phase performs a crucial role.
+
+2. Design & Development: In this phase of the Incremental model of SDLC, the design of the system functionality and the development method are finished with success. When software develops new practicality, the incremental model uses style and development phase.
+
+3. Testing: In the incremental model, the testing phase checks the performance of each existing function as well as additional functionality. In the testing phase, the various methods are used to test the behavior of each task.
+
+4. Implementation: Implementation phase enables the coding phase of the development system. It involves the final coding that design in the designing and development phase and tests the functionality in the testing phase. After completion of this phase, the number of the product working is enhanced and upgraded up to the final system product
+
+When we use the Incremental Model?
+When the requirements are superior.
+A project has a lengthy development schedule.
+When Software team are not very well skilled or trained.
+When the customer demands a quick release of the product.
+You can develop prioritized requirements first.
+Advantage of Incremental Model
+Errors are easy to be recognized.
+Easier to test and debug
+More flexible.
+Simple to manage risk because it handled during its iteration.
+The Client gets important functionality early.
+Disadvantage of Incremental Model
+Need for good planning
+Total Cost is high.
+Well defined module interfaces are needed.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+12 Principles Of Agile
+0 comments
+
+The 12 principles
+Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.
+Welcome changing requirements, even late in development. Agile processes harness change for the customer’s competitive advantage.
+Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.
+Business people and developers must work together daily throughout the project.
+Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.
+The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.
+Working software is the primary measure of progress.
+Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.
+Continuous attention to technical excellence and good design enhances agility.
+Simplicity–the art of maximizing the amount of work not done–is essential.
+The best architectures, requirements, and designs emerge from self-organizing teams.
+At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.
+
+
+
+
+Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.
+Perfection is the enemy of progress. Where waterfall err on the side of planning and strategy, agile err on the side of execution. The theory is that by the time you are done doing significant planning and strategy the landscape has already changed. So instead of excessive planning, execute and provide value to the customer base. The customer will give feedback and rinse and repeat.
+
+Welcome changing requirements, even late in development. Agile processes harness change for the customer’s competitive advantage.
+There are 3 levers for effectively managing any product development. Scope, Resources, and Time. Agile focuses on time and in some cases resources being fixed and scope is the lever that changes. Time is fixed for principle 1, but also scope should be able to be adjusted based on deadlines and feedback.
+
+Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.
+This principle again is about releasing early and often. The key word is “working” software. This doesn’t mean you just release when it isn’t working however, constantly releasing software is less risky, decreases cost of software inventory, and provides value faster to the end user.
+
+Business people and developers must work together daily throughout the project.
+Collaboration is the key in an agile project or any project for that matter. This also means collaboration with stakeholders. Clarity is essential. Clarity on what is being worked on and what isn’t, clarity on scope changes, and clarity of expectations. The number one thing that erodes software speed isn’t the methodology but lack of trust between teams. Particularly stakeholders and engineers. Seeking clarity and over-communication may seem inefficient in the moment but it saves so much time towards the end of the project.
+
+Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.
+Trust should be freely given. Mistrust should be earned. Industrial aged mindset is that off micromanagement and butts in seat mentality. If I can’t see you then you must not be doing what I asked. Assemble the right people, set the proper expectations, and measure the results. If the team understands the why and what they are doing, they should be able to manage themselves and carry out the how. No one wants to work for someone that doesn’t trust them except for money and thats toxic and short term.
+
+The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.
+This is so true. Now this isn’t to say you shouldn’t write anything down. In fact you should but face to face (video to video) communication is always better to collaborate vs email or slack threads. Functionally this means putting people who work on the same projects together in the same space whether it is physical or virtual.
+
+Working software is the primary measure of progress.
+So often product talks more about the progress they’ve made on certain ideas, designs, and ideas versus measuring the actual progress of what has already been released. Planning is important regardless of what methodology you use and the process from taking an idea to reality takes at least some level of refinement. However, distraction comes in when focus is too heavily on what the product could do in the future rather than focus on what it currently does and the current thing the team is working on.
+
+Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.
+Focus on sustainability and long term development not short term gains from one project. The key of the principle is more towards protecting against burnout from developers. Developers, designers, or any creative team cannot sustain a 110%. If they can I promise you they are not providing the best work and will eventually burnout and leave your team or worse stay on it.
+
+Continuous attention to technical excellence and good design enhances agility.
+This could be a whole post by itself. There is always a tension to manage when it comes to taking on technical debt. Too often companies worry about the flashy features rather than the foundation or the system that makes those flashy features a reality. Writing automated tests, improving architectural design,CI/CD pipeline, and bug management are imperative for great features.
+
+Simplicity–the art of maximizing the amount of work not done–is essential.
+Ideas are plentiful. There is always something that is good. However your team will build a great product one release at a time. As you scale one release at a time might expand as you take on more teams and resources, but you still have to take one step before you can take two steps. Focus on the step you are taking and then focus on the next step. Stop worrying about the 10,000th step.
+
+The best architectures, requirements, and designs emerge from self-organizing teams.
+The best ideas emerge from your own team. The team members must be able to cover all aspects of systems development. They must work together creating functional requirement, designs, architectures and implementation plan’s. You do not need specialist, but you need a team that is able to work together and is empowered to make decisions. You have to trust your team to make the right decisions via experimenting and learning from their own errors. Do not “trust” separate teams of specialist (architect, designers and analysts) to deliver better results without being a part of your team. The best solution will emerge from your own which is committed to deliver. Trust them to come-up with the best results.
+
+At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.
+
+
+Constantly reflect as a team things you can improve. Make this meeting recurring. Scrum builds this in automatically after every sprint. If you doing another form choose a cadence but at the minimum it should be a monthly. I go more into detail in The Power of Retrospective on this topic. 
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Agile Manifesto
+0 comments
+
+The 4 Agile Values(Manifesto)
+Individuals and interactions over processes and tools.
+Working software over comprehensive documentation.
+Customer collaboration over contract negotiation.
+Responding to change over following a plan.
+
+
+
+
+Individuals and Interactions over Processes and Tools
+Individuals and interactions are preferred over processes and tools because it makes the process more responsive. If the individuals are aligned and once they understand each other, then the team can resolve any issues with the tools or processes. But if the teams insist on blindly sticking to the processes then it might cause misunderstandings among the individuals and create unexpected roadblocks thereby resulting in project delays.
+
+That’s why it’s always preferable to have interactions and communication amongst the team members rather than blindly depending on processes to guide the way forward. One of the ways to achieve this is by having an involved product owner who works and can make decisions in collaboration with the development team. Allowing individuals to contribute on their own also allows them to showcase freely as what they can bring to the table. When these team interactions are directed towards solving a common problem, the results can be quite powerful.
+
+Working Software over Comprehensive Documentation
+Traditional project management involved comprehensive documentation which entailed a lag of months. This used to impact the project delivery negatively and the resulting delays were inevitable. The kind of documentation created for these projects was very detailed and so many documents were created that many of them were not even referred to during the project progress. This was an unnecessary evil with which the project teams used to live with. But this also exacerbated the problems in delivery. The focus was on documentation to such an extent because the teams wanted to end up with a finished product which was 100% as per the specifications. That’s why the focus was on capturing all the specifications in details.
+
+But still, the end product used to be quite different from the expectations or would have lost relevance. That’s is why agile says that a working software is a much better option to gauge customer expectation than heaps of documentation. This doesn’t imply that the documentation is not necessary. It just means that a working product is any day a better indicator of alignment to the customer needs and expectations than a document created months ago. It also implies that the teams are responsive and ready to adapt to change as and when required while showing the working software to the client when the sprint ends. Failure to test the product during sprints takes manifold cost and effort in the next sprint. Once the functionality is deployed, the cost of these changes goes up further by a significant degree.
+
+Customer Collaboration Over Contract Negotiation
+Negotiation means that the details are still being captured and have not been finalized. There is still scope for renegotiation. But once the negotiation is over, there can be no discussion over it. What agile says is that instead of negotiation, go for collaboration. Collaboration implies that there is still room for discussion and the communication is ongoing. Not a one-time thing. What this does is, it gives a two-fold advantage – while it helps the team to do a course correction if required at an earlier stage, it helps the client to also refine their vision and redefine their requirements if required during the course of the project. The other aspect is that while traditional software development models involve the customer before the development begins during the documentation and negotiation phase, and they are not as involved during the project development.
+
+Once the requirements have been frozen, they get to see the product only, once the product is ready. Agile breaks through this barrier as well by allowing for customer involvement over the whole lifecycle. This helps the agile teams align better to the customer needs. One of the ways to achieve this is through a dedicated and involved product owner who can help the team in real time for clarifications and aligning the work with the customer priorities.
+
+Responding to Change Over Following a Plan
+The standard thought process is that the changes are an expensive affair and we should avoid changes at all costs. That’s what the unnecessary focus is on documentation and elaborate plans to deliver by sticking onto the timelines and product specifications. But as experience also teaches us, changes are mostly inevitable and instead of running from it we should try to embrace it and plan for it.
+
+Agile allows us to do this transition. What agile thinks is that change is not an expense, it is a welcome feedback which helps to improve the project. It is not to be avoided but instead, it adds value. With the short sprints proposed by agile, the teams can get a quick feedback and shift priorities at a short notice. New features can be added from iteration to iteration. Why do we do this? Because most of the features developed using the waterfall approach are never used. This is because the waterfall model follows the plan whereas that is the phase when we know the least. Agile also plans, but it also follows the just in time approach where planning is done just enough when needed. And the plans are always open to change as the sprints progress.
+
+===============-----------------------------------------------------------------------------------------
+
+Scrum
+0 comments
+
+What is Scrum
+
+A framework within which people can address complex adaptive problems, while productively and creatively delivering products of the highest possible value. 
+
+Scrum is: 
+
+•Lightweight
+
+•Simple to understand
+
+•Difficult to master
+
+Scrum Supports Organization in 3 ways
+
+    Faster
+
+     Scrum helps teams continuously improve, so that they can produce more in less time 
+
+   Better
+
+    Scrum puts the customer at the center of design and development, resulting in more commercially successful products
+
+   Happier
+
+    Scrum empowers working teams to make decisions and harness their talents, leading to greater employee satisfaction
+
+-------------------------------------------------------------------
+
+Scrum
+0 comments
+
+What is Scrum
+
+A framework within which people can address complex adaptive problems, while productively and creatively delivering products of the highest possible value. 
+
+Scrum is: 
+
+•Lightweight
+
+•Simple to understand
+
+•Difficult to master
+
+Scrum Supports Organization in 3 ways
+
+    Faster
+
+     Scrum helps teams continuously improve, so that they can produce more in less time 
+
+   Better
+
+    Scrum puts the customer at the center of design and development, resulting in more commercially successful products
+
+   Happier
+
+    Scrum empowers working teams to make decisions and harness their talents, leading to greater employee satisfaction
+
+
+---------------------------------------------------------------------------------------------------------------------------
+
+Scrum Team
+0 comments
+
+Scrum Team
+Typically, a Scrum Team includes five to eleven people who share the various tasks and responsibilities related to the delivery of the project/product. It is a group of self-motivated individuals who work collaboratively towards successful product delivery. A high level of communication is expected between the Scrum Team members to ensure they are focused on the same goal while maintaining mutual respect throughout the process. Also, they share a common set of norms and rules. 
+
+
+
+Scrum Teams Attributes
+Self-Organized Scrum Teams are self-reliant and self-sufficient in terms of accomplishing their work without the need for external help or guidance. The teams are competent enough to adopt the best practices to achieve their Sprint Goals.
+
+Cross-Functional Scrum Teams are the teams having all the necessary skills and proficiency within the team to accomplish their work. These teams do not rely on anyone outside the team for completing the work items. Thus, the Scrum Team is a very creative amalgamation of different skills that are required to complete the entire work item.
+
+---------------------------------------------------------------------------------------------------
+
+Scrum Roles
+0 comments
+
+
+
+
+
+
+
+
+The Scrum Master
+Scrum Master is the person who is responsible for facilitating/coaching the Development Team and the Product Owner to work on the day to day development activities.
+
+He is the one who ensures that the team understands the Scrum Values and Principles and is able to practice them. At the same time, Scrum Master also assures that the Team feels enthusiastic about Agile in order to achieve the best out of the framework. Scrum Master also helps and supports the team to become self-organized.
+
+Apart from educating and training the team members regarding the importance of Agile, he is also responsible to make sure that the team feels motivated and strengthen at all times. He also works on boosting up the communication and collaboration amongst the team members.
+
+The Product Owner
+Another very crucial role  is the Product Owner. Product Owner is the voice of the customer /stakeholders and hence is responsible for bridging the gap between the development team and stakeholders. Product owner manages the gap in such a way which would maximize the value of the product being built.
+
+Product Owner is set to be involved throughout the Sprint Activities and Development efforts and plays a very crucial role in the success of a product.
+
+The Development Team
+Another very important part of the Scrum Team is the Development Team. The Development Team is comprised of developers proficient in their own area of expertise. Unlike the other Scrum Team members, the Development Teamwork on the actual implementation of the potentially deliverable software/increment which is to be delivered at the end of each Sprint.
+
+The Development Team may consist of people having specialized skills like Front-end Developers, Backend Developers, Dev-Ops, QA Experts, Business Analyst, DBA etc., but they are all referred to as Developers; No other titles are allowed. The Development Team cannot even have sub-teams within it like the testing team, requirement specification team etc.
+
+The Team is set up considering all the essential skill set required to successfully develop, test & deliver the product increments every Sprint without the outside help. Thus, the team is expected to be self-sufficient and cross-functional. The Development Team doesn’t take any help from outside the Scrum Team and manages their own work.
+
+
+
+p------------------------------------------------------------------------------------------------------------------------------------------------
+
+Scrum Artifacts
+0 comments
+
+
+
+Three types of  Scrum Artifacts
+
+Product backlog
+Sprint backlog 
+Product increments
+Product Backlog
+To put it in simple terms, a product backlog is a list of all the things that are required in the product. It’s the final document to be referred to by the scrum team for anything related to the product. It’s an ordered list of items which is owned by the Product Owner (PO).
+
+The PO is responsible for creating, maintaining and prioritizing this list. The POs use this product backlog to explain the top requirements that need to be done during the sprint to the scrum teams.
+
+Below is an Example of what a typical product backlog can look like
+
+Story	Estimate	Priority
+I want to login	4	1
+I want to logout	2	2
+I want to change password	1	3
+I want to update address	3	4
+I want to add a new home phone number	1	5
+
+
+How to create a good product backlog.
+
+It should be prioritized – The items in the product backlog should be ordered as per their priority. This priority can be decided by the PO and the scrum team together. The prioritization factors can be any like benefit from the story point, the effort involved in the creation, complexity, customer priority etc. It helps the team in understanding what needs to be delivered first.
+
+It should be estimated – The stories should always be estimated as per the agreed definition, whatever that might be. This can be used for prioritization as well. 
+
+It should be high level – The stories in the product backlog are meant to be high level and should not go into the details. Creation of detailed user stories as per the requirement is up to the scrum team and not the PO
+
+It should be dynamic – The product backlog is not a final static document. It should be revisited as the PO receives inputs from the scrum team and the customer requirements become more and more clear. Thus the document requirements are not frozen right at the beginning because there are additions/deletions/modifications expected as the project progresses. 
+
+Sprint Backlog 
+
+During these sprints, the scrum team identifies the items from the product backlog created by the PO, which they plan to deliver as a part of the next iteration. The items which the scrum team selects to work upon become a part of the sprint backlog. Thus they decide what functionalities are going to be there in the next iteration of the product. The scrum team is the one who decides what will go into the sprint backlog as they are the ones who are going to work on it. Thus they are the ones who should be estimating the effort involved in implementing those stories and deciding how much they can deliver.
+
+The team not only picks the items from the product backlog to work upon, but they also put an estimate on how much time it will take for them to develop that functionality. They also add to the high-level user stories by creating detailed tasks required to achieve the sprint goal. The scrum team can also keep updating the sprint backlog as and when required during the sprint, but it is only the scrum team who can make changes to the sprint backlog.
+
+Product Increments
+
+The Increment is the sum of all the Product Backlog items completed during a Sprint combined with the increments of all previous Sprints. At the end of a Sprint, the new Increment must be a working product, which means it must be in a useable condition. It must be in working condition regardless of whether the Product Owner decides to actually release it.
+
+The Scrum Team needs to have consensus on what is considered to be an Increment. This varies significantly per Scrum Team, but, team members must have a shared understanding of what it means for work to be complete. This is used to assess when work is complete on the product Increment.
+
+The same understanding guides the Team in knowing how many Product Backlog items it can select during a Sprint Planning. The purpose of each Sprint is to deliver Increments of potentially releasable functionality.
+
+--------------------------------------------------------------------------------------
+
+Scrum Events
+0 comments
+
+The five events are:
+
+Sprint Planning
+Daily Scrum
+Backlog grooming 
+Sprint Review
+Sprint Retrospective
+Sprint Planning
+
+This is the event that kick starts each Sprint and is where the Product Owner and Development team discuss which Product Backlog Items (PBI’s) will be included in Sprint. While the Product Owner has the right to prioritise each PBI for potential inclusion in the Sprint, the Development team are encouraged to respond, raise issues and push back where necessary. The Development Team then forecasts how many PBI’s they can deliver in the Sprint, given their knowledge of velocity, resources and any factors which could influence the time and resources they have available.
+
+The outcome of the Sprint Planning Meeting is to get a Sprint Goal and Sprint Backlog that everyone agrees is realistic and achievable.
+
+Daily Scrum
+
+Scrum seeks to efficiently use your time and resources and the Daily Scrum event is no exception. The Daily Scrum is time boxed to 15 minutes. Standing up is not compulsory. However, many teams find this a useful technique to keep the meeting short and to the point. The Daily Scrum is an opportunity for the Development Team to check in, assess progress towards achieving the Sprint Goal and to review and plan their activities for the next 24 hours.
+
+Backlog Gromming
+
+Backlog refinement (formerly known as backlog grooming) is when the product owner and some, or all, of the rest of the team review items on the backlog to ensure the backlog contains the appropriate items, that they are prioritized, and that the items at the top of the backlog are ready for delivery. This activity occurs on a regular basis and may be an officially scheduled meeting or an ongoing activity. Some of the activities that occur during this refinement of the backlog include:
+
+
+
+    removing user stories that no longer appear relevant
+    creating new user stories in response to newly discovered needs
+    re-assessing the relative priority of stories
+    assigning estimates to stories which have yet to receive one
+    correcting estimates in light of newly discovered information
+    splitting user stories which are high priority but too coarse grained to fit in an upcoming iteration
+Sprint Review
+
+Look again at the above principle from the Agile Manifesto — “At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.” That principle alone sums up the reason behind our next two meetings, the Sprint Review and the Sprint Retrospective.
+
+Both events take place at the end of the Sprint. The aim of Agile approaches is not necessary to get everything ‘perfect’ the first time around, but to improve continuously. These events help make that possible.
+
+A Sprint Review usually takes place on the last day of the Sprint and allows you the opportunity to show the “done” Increment to stakeholders (customers, management and anyone else considered relevant and interested). As well as demonstrating working features produced during the Sprint, you’re also after useful feedback that can be incorporated the Product Backlog that may help guide the work for future sprints.
+
+Sprint Retrospective
+
+The final meeting in the Sprint is the Sprint Retrospective. This is when the Scrum team reviews what could be improved for future Sprints and how they should do it. The ethos of Scrum dictates that no matter how good the Scrum team is, there will always be opportunity to improve and the Sprint Retrospective gives the team a dedicated time in which to identify, discuss and plan this. The whole Scrum Team should take part including the Development Team, the Scrum Master and the Product Owner. The meeting should be a collaborative effort, just like the entire Scrum and Agile process.
+
+----------------------------------------------------------------------------------------------------------------------
+
+User Story
+0 comments
+
+A user story is the smallest unit of work in an agile framework. It’s an end goal, not a feature, expressed from the software user’s perspective.
+
+A user story is an informal, general explanation of a software feature written from the perspective of the end-user or customer. 
+
+The purpose of a user story is to articulate how a piece of work will deliver a particular value back to the customer. Note that "customers" don't have to be external end-users in the traditional sense, they can also be internal customers or colleagues within your organization who depend on your team.
+
+User stories are a few sentences in simple language that outline the desired outcome. They don't go into detail. Requirements are added later, once agreed upon by the team.
+
+Stories fit neatly into agile frameworks like scrum and kanban. In scrum, user stories are added to sprints and “burned down” over the duration of the sprint. Kanban teams pull user stories into their backlog and run them through their workflow. It’s this work on user stories that help scrum teams get better at estimation and sprint planning, leading to more accurate forecasting and greater agility. Thanks to stories, kanban teams learn how to manage work-in-progress (WIP) and can further refine their workflows.
+
+User stories are also the building blocks of larger agile frameworks like epics and initiatives. Epics are large work items broken down into a set of stories, and multiple epics comprise an initiative. These larger structures ensure that the day to day work of the development team (on stores) contributes to the organizational goals built into epics and initiatives.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+What is Pair Programming?
+
+Pair Programming consists of two programmers sharing a single workstation (one screen, keyboard and mouse among the pair). The programmer at the keyboard is usually called the –driver. The other, also actively involved in the programming task but focusing more on overall direction is the –navigator. It is expected that the programmers swap roles every few minutes or so.
+
+Key Principles
+
+Communication
+Learning
+Knowledge sharing
+Guidelines for pair programming 
+
+Share everything
+Play fair
+Don’t hit people
+Put things back where you found them
+Clean up you own mess
+Don’t take things aren’t yours
+Trust each other
+
+-----------------------------------------------------------------------------------------------------------------------
+
+Potential Cost Of Pair Programming
+0 comments
+
+
+A quiet navigator will create a dysfunctional pair. Both programmers must be able to maintain a steady conversation. An initial decline in productivity is sometimes observed when engineers start to pair program. Noise from a pair can disturb others who work alone. There can be a conflict of egos or personality depending on the programmers involved. This could result in uncomfortable feelings and reduce productivity, negating the potential benefits of pair programming.  
+
+Some programmers are very intrinsic and have a deep sense of personal ownership about the code they write, these feelings can be difficult to overcome at first. Software engineers are conditioned to work alone. It may feel like they are wasting their time with slower   programmers or they may feel inadequate compared to their peers. Attempting pair programming with these types of feelings can lead to a loss in the benefits offered by the practice.
+
+Pairing an inexperienced programmer with someone more competent can result in feelings of intimidation, resulting in less participation between the two. 
+
+Economics: organizations can be concerned that pair programming will double the development costs as   two programmers on working on one task. The result is that  it can be difficult to convince management to come onboard with the practice.
+ Coordination can be a challenge as the team must decide who works with whom every day. Also, the team needs to decide which  portions of the day should be paired sessions during which no meetings would take place.
+
+---------------------------------------------------------------------------------------------------------------------
+
+Lean
+
+Lean is a tried-and-true management framework geared toward maximizing business outcomes. Although it originated in factories of the war-decimated Japan, this versatile approach still holds immense potential for various industries. It helps organizations fine-tune their operations and gives them a chance to ditch defective processes. 
+
+Lean is a systematic approach to reduce or eliminate activities that don't add value to the process. It emphasizes removing wasteful steps in a process and taking the only value-added steps. The Lean method ensures high quality and customer satisfaction.
+
+5 Lean Principles
+
+Define Value: Do this from the customer’s perspective. Clarify what customers want, what they require and what they care about.
+
+Map the Value Stream: Make the process and the problems visible by creating a visible map of key steps.
+
+Create Flow: Determine where “the thing” is getting stuck and work to ensure units move through the process with ease. The goal is a continuous flow of products and services.
+
+Establish Pull: Pull systems refer to producing units at the rate of customer demand. The opposite of a Pull system is a “Push” system where goods or services are prepared ahead of time potentially resulting in excess inventory and increased waste.
+
+Pursue Perfection: Lean methodology is a journey where problem solvers continue to work toward the complete elimination of waste where all activities create value for the customer.
+
+-------------------------------------------------------------------------------------------------------------------
+
+8 Wastes Of Lean
+0 comments
+
+
+
+
+
+Transport
+
+Waste in transportation includes movement of people, tools, inventory, equipment, or products further than necessary. Excessive movement of materials can lead to product damage and defects. Additionally, excessive movement of people and equipment can lead to unnecessary work, greater wear and tear, and exhaustion.
+In the office, workers who collaborate with each other often should be close together. In the factory, materials necessary for production should be easily accessible at the production location and double or triple handling of materials should be avoided. Some of the countermeasures to transportation waste includes developing a U-shape production line, creating flow between processes, and not over-producing work in process (WIP) items 
+
+Inventory
+Often times it is difficult to think about excess inventory as waste. In accounting, inventory is seen as an asset and oftentimes suppliers give discount for bulk purchases. But having more inventory than necessary to sustain a steady flow of work can lead to problems including: product defects or damage materials, greater lead time in the production process, an inefficient allocation of capital, and problems being hidden away in the inventory. Excess inventory can be caused by over-purchasing, overproducing work in process (WIP), or producing more products than the customer needs. Excess inventory prevents detecting production-related problems since defects have time to accumulate before it is discovered. As a result, more work will be needed to correct the defects.
+In-office inventory waste could be files waiting to be worked on, customers waiting for service, unused records in a database, or obsolete files. Manufacturing inventory waste could include broken machines sitting around, more finished products than demanded, extra materials taking up work space, and finished products that cannot be sold. Some countermeasures for inventory include: purchasing raw materials only when needed and in the quantity needed, reducing buffers between production steps, and creating a queue system to prevent overproduction.
+
+Motion
+The waste in motion includes any unnecessary movement of people, equipment, or machinery. This includes walking, lifting, reaching, bending, stretching, and moving. Tasks that require excessive motion should be redesigned to enhance the work of personnel and increase the health and safety levels.
+In the office, wasted motion can include walking, reaching to get materials, searching for files, sifting through inventory to find what is needed, excess mouse clicks, and double entry of data. Manufacturing motion waste can include repetitive movements that do not add value to the customer, reaching for materials, walking to get a tool or materials, and readjusting a component after it has been installed. Some countermeasures for motion include making sure the workspace is well organized, placing equipment near the production location, and putting materials at an ergonomic position to reduce stretching and straining.
+
+Waiting
+The waste of waiting includes: 1) people waiting on material or equipment and 2) idle equipment. Waiting time is often caused by unevenness in the production stations and can result in excess inventory and overproduction.
+In the office, waiting waste can include waiting for others to respond to an email, having files waiting for review, ineffective meetings, and waiting for the computer to load a program. In the manufacturing facility, waiting waste can include waiting for materials to arrive, waiting for the proper instructions to start manufacturing, and having equipment with insufficient capacity. Some countermeasures for waiting include: designing processes to ensure continuous flow or single piece flow, leveling out the workload by using standardized work instructions, and developing flexible multi-skilled workers who can quickly adjust in the work demands.
+
+
+
+Overproduction
+Overproduction occurs when manufacturing a product or an element of the product before it is being asked for or required. It may be tempting to produce as many products as possible when there is idle worker or equipment time. However, rather than producing products just when they are needed under the ‘Just In Time’ philosophy, the ‘Just In Case’ way of working leads a host of problems including preventing smooth flow of work, higher storage costs, hiding defects inside the WIP, requiring more capital expenditure to fund the production process, and excessive lead-time. Additionally, over-producing a product also leads to an increase in likelihood that the product or quantities of products produced are beyond the customer’s requirements.
+In an office environment, overproduction could include making extra copies, creating reports no one reads, providing more information than needed, and providing a service before the customer is ready. Manufacturing overproduction involves producing more products than demanded through a ‘push production system’ or producing products in higher batch sizes than needed. There are three countermeasures for overproduction. Firstly, using a ‘Takt Time’ ensures that the rate of manufacturing between stations are even. Secondly, reducing setup times enables manufacturing small batches or single-piece flow. Thirdly, using a pull or ‘Kanban’ system can control the amount of WIP.
+
+Over-processing
+Over-processing refers to doing more work, adding more components, or having more steps in a product or service than what is required by the customer. In manufacturing this could include using a higher precision equipment than necessary, using components with capacities beyond what is required, running more analysis than needed, over-engineering a solution, adjusting a component after it has already been installed, and having more functionalities in a product than needed. In the office, over-processing can include generating more detailed reports than needed, having unnecessary steps in the purchasing process, requiring unnecessary signatures on a document, double entry of data, requiring more forms than needed, and having an extra step in a workflow.
+One simple way to counter over-processing is to understand the work requirements from the standpoint of the customer. Always have a customer in mind before starting work, produce to the level of quality and expectation that the customer desires, and make only the quantities needed.
+
+Defects
+Defects occurs when the product is not fit for use. This typically results in either reworking or scrapping the product. Both results are wasteful as they add additional costs to the operations without delivering any value to the customer.
+Here are four countermeasures for defects. Firstly, look for the most frequent defect and focus on it. Secondly, design a process to detect abnormalities and do not pass any defective items along the production process. Thirdly, redesign the process so that does not lead to defects. Lastly, use standardize work to ensure a consistent manufacturing process that is defect free.
+
+
+
+Skills - The 8th Waste
+Even though it was not part of the Toyota Production System (TPS), many people are well aware of the 8th waste - the waste of human potential. The 8th waste is also described as the waste of unused human talent and ingenuity. This waste occurs when organizations separate the role of management from employees. In some organizations, management’s responsibility is planning, organizing, controlling, and innovating the production process. The employee’s role is to simply follow orders and execute the work as planned. By not engaging the frontline worker’s knowledge and expertise, it is difficult to improve processes. This is due to the fact that the people doing the work are the ones who are most capable of identifying problems and developing solutions for them.
+In the office, non-utilized talent could include insufficient training, poor incentives, not asking for employee feedback, and placing employees in positions below their skills and qualifications. In manufacturing, this waste can be seen when employees are poorly trained, employees not knowing how to effectively operate equipment, when employees are given the wrong tool for the job, and when employees are not challenged to come up with ideas to improve the work.
+
+----------------------------------------------------------------------------------------------------------------------------'
+
+Identifying And Eliminating The 8 Wastes
+0 comments
+
+The first step to reducing waste is recognizing that they exist and having an effective process for identifying them. Value Stream Mapping (VSM) is a Lean management method for analyzing the current state and designing a future state. It shows the flow of information and material as they occur. VSM is an effective tool for mapping out the processes involved, displaying the relationship between production processes in a visual manner, and for separating value-added and non-value-added activities.
+
+In order to identify wastes, use the VSM and start with the end customer in mind. Work backwards from the end customer to the start of the production processes. Document instances of the 8 wastes in the processes and develop a plan for eliminating or reducing them. Continue challenging your team to find more wastes and continuously improve your processes. Engage with the frontline workers and elicit their ideas for improvement. As your team begins reducing efficiencies they will gain more confidence in their problem-solving capabilities and over time reducing waste becomes a part of their daily routine. 
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+Class Diagram
+0 comments
+
+Class diagram is a static diagram. It represents the static view of an application. Class diagram is not only used for visualizing, describing, and documenting different aspects of a system but also for constructing executable code of the software application.
+
+Class diagram describes the attributes and operations of a class and also the constraints imposed on the system. The class diagrams are widely used in the modeling of objectoriented systems because they are the only UML diagrams, which can be mapped directly with object-oriented languages.
+
+Class diagram shows a collection of classes, interfaces, associations, collaborations, and constraints. It is also known as a structural diagram.
+
+Purpose of Class Diagrams
+The purpose of class diagram is to model the static view of an application. Class diagrams are the only diagrams which can be directly mapped with object-oriented languages and thus widely used at the time of construction.
+
+UML diagrams like activity diagram, sequence diagram can only give the sequence flow of the application, however class diagram is a bit different. It is the most popular UML diagram in the coder community.
+
+The purpose of the class diagram can be summarized as −
+
+Analysis and design of the static view of an application.
+
+Describe responsibilities of a system.
+
+Base for component and deployment diagrams.
+
+Forward and reverse engineering.
+
+How to Draw a Class Diagram?
+Class diagrams are the most popular UML diagrams used for construction of software applications. It is very important to learn the drawing procedure of class diagram.
+
+Class diagrams have a lot of properties to consider while drawing but here the diagram will be considered from a top level view.
+
+Class diagram is basically a graphical representation of the static view of the system and represents different aspects of the application. A collection of class diagrams represent the whole system.
+
+The following points should be remembered while drawing a class diagram −
+
+The name of the class diagram should be meaningful to describe the aspect of the system.
+
+Each element and their relationships should be identified in advance.
+
+Responsibility (attributes and methods) of each class should be clearly identified
+
+For each class, minimum number of properties should be specified, as unnecessary properties will make the diagram complicated.
+
+Use notes whenever required to describe some aspect of the diagram. At the end of the drawing it should be understandable to the developer/coder.
+
+Finally, before making the final version, the diagram should be drawn on plain paper and reworked as many times as possible to make it correct.
+
+The following diagram is an example of an Order System of an application. It describes a particular aspect of the entire application.
+
+First of all, Order and Customer are identified as the two elements of the system. They have a one-to-many relationship because a customer can have multiple orders.
+
+Order class is an abstract class and it has two concrete classes (inheritance relationship) SpecialOrder and NormalOrder.
+
+The two inherited classes have all the properties as the Order class. In addition, they have additional functions like dispatch () and receive ().
+
+The following class diagram has been drawn considering all the points mentioned above.
+
+UML Class Diagram
+
+Where to Use Class Diagrams?
+Class diagram is a static diagram and it is used to model the static view of a system. The static view describes the vocabulary of the system.
+
+Class diagram is also considered as the foundation for component and deployment diagrams. Class diagrams are not only used to visualize the static view of the system but they are also used to construct the executable code for forward and reverse engineering of any system.
+
+Generally, UML diagrams are not directly mapped with any object-oriented programming languages but the class diagram is an exception.
+
+Class diagram clearly shows the mapping with object-oriented languages such as Java, C++, etc. From practical experience, class diagram is generally used for construction purpose.
+
+In a nutshell it can be said, class diagrams are used for −
+
+Describing the static view of the system.
+
+Showing the collaboration among the elements of the static view.
+
+Describing the functionalities performed by the system.
+
+Construction of software applications using object oriented languages.
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+State Machine Diagram
+0 comments
+
+A state diagram, sometimes known as a state machine diagram, is a type of behavioral diagram in the Unified Modeling Language (UML) that shows transitions between various objects 
+
+A state machine is any device that stores the status of an object at a given time and can change status or cause other actions based on the input it receives. States refer to the different combinations of information that an object can hold, not how the object behaves. In order to understand the different states of an object, you might want to visualize all of the possible states and show how an object gets to each state, and you can do so with a UML state diagram.
+
+Each state diagram typically begins with a dark circle that indicates the initial state and ends with a bordered circle that denotes the final state. However, despite having clear start and end points, state diagrams are not necessarily the best tool for capturing an overall progression of events. Rather, they illustrate specific kinds of behavior—in particular, shifts from one state to another.
+
+State diagrams mainly depict states and transitions. States are represented with rectangles with rounded corners that are labeled with the name of the state. Transitions are marked with arrows that flow from one state to another, showing how the states change. Below, you can see both these elements at work in a basic diagram for student life. Our UML diagram tool can help you design any custom state machine diagram.
+
+State Diagram - Undergraduate States
+
+Like most UML diagrams, state diagrams have several uses. The main applications are as follows:
+
+Depicting event-driven objects in a reactive system.
+
+Illustrating use case scenarios in a business context.
+
+Describing how an object moves through various states within its lifetime.
+
+Showing the overall behavior of a state machine or the behavior of a related set of state machines.
+
+State diagram symbols and components
+You can include many different shapes in a state diagram, particularly if you choose to combine it with another diagram. This list summarizes the most common shapes you may encounter.
+
+Composite State
+A state that has substates nested into it. See the university state diagram example below. “Enrollment” is the composite state in this example because it encompasses various substates in the enrollment process.
+
+Choice Pseudostate
+A diamond symbol that indicates a dynamic condition with branched potential results.
+
+State Diagram Symbols - Choice Pseudostate
+Event
+An instance that triggers a transition, labeled above the applicable transition arrow. In this case, “classes end” is the event that triggers the end of the “Being taught” state and the beginning of the “Final exams” state.
+
+State Diagram Symbols - Event Shape
+Exit Point
+The point at which an object escapes the composite state or state machine, denoted by a circle with an X through it. The exit point is typically used if the process is not completed but has to be escaped for some error or other issue.
+
+State Diagram Symbols - Exit Point
+First State
+A marker for the first state in the process, shown by a dark circle with a transition arrow.
+
+State Diagram Symbols - First State
+Guard
+A Boolean condition that allows or stops a transition, written above the transition arrow.
+
+State
+A rectangle with rounded corners that indicates the current nature of an object.
+
+State Diagram Symbols - State Shape
+Substate
+A state contained within a composite state's region. In the university state machine diagram found below, “Open for enrollment” is a substate in the larger “Enrollment” composite state.
+
+Terminator
+A circle with a dot in it that indicates that a process is terminated.
+
+State Diagram Symbols - Terminator Shape
+Transition
+An arrow running from one state to another that indicates a changing state.
+
+State Diagram Symbols - Transition Shape
+Transitional Behavior
+A behavior that results when a state transitions, written above the transition arrow.
+
+Trigger
+A type of message that actively moves an object from state to state, written above the transition arrow. In this example, “Issue with reservation” is the trigger that would send the person to the airport travel agency instead of the next step in the process.
+
+-----------------------------------------------------------------------------------------------------
+Design Patterns
+0 comments
+
+Design patterns are the well-proven solutions for solving the specific problem/task. Now, a question will be arising in your mind what kind of specific problem? Let me explain by taking an example.
+
+Problem Given:
+Suppose you want to create a class for which only a single instance (or object) should be created and that single object can be used by all other classes.
+
+Solution:
+Singleton design pattern is the best solution of above specific problem. So, every design pattern has some specification or set of rules for solving the problems. What are those specifications, you will see later in the types of design patterns.
+
+But remember one thing, design patterns are programming language independent strategies for solving the common object-oriented design problems. That means a design pattern represents an idea, not a particular implementation. By using the design patterns you can make your code more flexible, reusable, and maintainable. It is the most important part because java internally follows design patterns. To become a professional software developer, you must know at least some popular solutions (i.e. design patterns) to the coding problems.
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+Model-View-Controller(MVC)
+1 comments
+
+MVC design pattern is also known as Model-View-Controller. It is a common architectural pattern that is used to design and create interfaces and the structure of an application.
+
+This pattern divides the application into three parts that are dependent and connected to each other. These designs are used to distinguish the presentation of data from how the data is accepted from the user to the data shown. These design patterns have become common in the use of web applications and for developing GUIs.
+
+1. Model
+This part of the design pattern is the primary part and contains application information purely. It doesn’t contain any information on how to show the data to the user. It is independent of the user interface. It controls the logic and rules of application.
+
+2. View
+This part helps the user to see the model’s data. The main concern of this part is to access the model’s data. The view section uses a chart, table or diagrams to represent the information. It can also show similar data and use bar graphs and tables for different purposes. It is a visualization of information that the application contains.
+
+3. Controller
+Most of the work is done by the controller. It provides support for input and converts the input to commands for the application. It is used between the model and view part. The model and the view are interconnected, so the execution is reflected in the view part.
+
+
+
+
+
+
+Image Caption
+How does MVC Design Pattern make working so easy?
+Today most of applications follow this pattern. It helps in the reusing of code and parallel development. This makes working easier and simpler. The components created through the MVC design pattern are independent of each other in nature. This feature helps the developers to reuse the components and codes easily and quickly in other multiple applications. 
+
+Since the view monitors the data and it is controlled how it is being presented to the user, the developer can use a similar view with different data for different applications. This saves a lot of time and effort for the developer.
+
+ Why should we use the MVC Design Pattern?
+
+The most important use of it is to segregate the views from the model and controllers. It helps in separating the display and the data and allow modification in each data without affecting the others. It is mostly used for developing Graphical User Interface.
+
+MVC has been widely used for web applications in major programs. Some frameworks such as JavaScript MVC, Ember JS, and Backbone support the process of MVC partly on the client.
+
+------------------------------------------------------------------------------------------------------------------------
+
+Test-Driven Development
+0 comments
+
+What is test-driven development?
+Test-driven development reverses traditional development and testing. So, instead of writing your code first and then retroactively fitting a test to validate the piece of code you just wrote, test-driven development dictates that you write the test first and then implement code changes until your code passes the test you already wrote.
+
+In TDD, you write your unit test first, watch it fail, and then implement code changes until the test passes. Sounds backward, right? But the code you produce when you use this testing methodology is cleaner and less prone to breaking in the long run.
+
+A unit test is simply a test that covers a small portion of logic, as an algorithm, for example. Unit tests should be deterministic. When I say “deterministic” I mean that unit tests should never have side-effects like calls to external APIs that deliver random or changing data. Instead, you’d use mock data in place of data that could potentially change over time.
+
+Five steps of test-driven development
+There are 5 steps in the TDD flow:
+
+Read, understand, and process the feature or bug request.
+Translate the requirement by writing a unit test. If you have hot reloading set up, the unit test will run and fail as no code is implemented yet.
+Write and implement the code that fulfills the requirement. Run all tests and they should pass, if not repeat this step.
+Clean up your code by refactoring.
+Rinse, lather and repeat.
+Figure 1 shows these steps and their agile, cyclical, and iterative nature: Red green refactoring in TDD
+
+This workflow is sometimes called Red-Green-Refactoring, which comes from the status of the tests within the cycle.
+
+The red phase indicates that the code does not work.
+The green phase indicates that everything is working, but not necessarily in the most optimal way.
+The blue phase indicates that the tester is refactoring the code, but is confident their code is covered with tests which gives the tester confidence to change and improve our code.
+What are the Advantages of TDD?
+Studies have shown that Test Driven Development reduces defect density, improves software quality, and in some cases make team productivity higher. Empirical Software Engineering Journal published a paper that summarized 4 cases studies (1 at IBM, 3 at Microsoft), where they followed the TDD practice and evaluated its effectiveness of it. For more information on this study, visit http://www.infoq.com/news/2009/03/TDD-Improves-Quality
+
+
+
+-----------------------------------------------------------------------------------------------------------------------
+
+Behaviour-Driven Development
+0 comments
+
+Behaviour-Driven Development
+
+
+
+Behaviour-Driven Development (BDD) is the software development process that Cucumber was built to support.
+
+There’s much more to BDD than just using Cucumber.
+
+What is BDD?
+
+BDD is a way for software teams to work that closes the gap between business people and technical people by:
+
+Encouraging collaboration across roles to build shared understanding of the problem to be solved
+
+Working in rapid, small iterations to increase feedback and the flow of value
+
+
+
+Producing system documentation that is automatically checked against the system’s behaviour
+
+We do this by focusing collaborative work around concrete, real-world examples that illustrate how we want the system to behave. We use those examples to guide us from concept through to implementation, in a process of continuous collaboration.
+
+BDD and agile
+
+We assume that your team are using some kind of agile methodology already, planning work in small increments of value like User Stories. BDD does not replace your existing agile process, it enhances it.
+
+Think of BDD as a set of plugins for your existing process that will make your team more able to deliver on the promises of agile: timely, reliable releases of working software that meets your organisation’s evolving needs, requiring some maintenance effort and discipline.
+
+Rapid iterations
+
+We assume you would like to be able to respond quickly to feedback from your users, and do only the minimal work necessary to meet those needs.
+
+BDD encourages working in rapid iterations, continuously breaking down your user’s problems into small pieces that can flow through your development process as quickly as possible.
+
+
+
+Three practices
+
+Essentially, day-to-day BDD activity is a three-step, iterative process:
+
+First, take a small upcoming change to the system – a User Story – and talk about concrete examples of the new functionality to explore, discover and agree on the details of what’s expected to be done.
+
+Next, document those examples in a way that can be automated, and check for agreement.
+
+Finally, implement the behaviour described by each documented example, starting with an automated test to guide the development of the code.
+
+The idea is to make each change small and iterate rapidly, moving back up a level each time you need more information. Each time you automate and implement a new example, you’ve added something valuable to your system, and you’re ready to respond to feedback. We call these practices Discovery, Formulation, and Automation.
+
+
+
+Over time, the documented examples become an asset that enables your team to continue confidently and rapidly making changes to the system. The code reflects the documentation, and the documentation reflects the team’s shared understanding of the problem domain. This shared understanding is constantly evolving.
+
+There’s lots to learn about each of these practices. We’ll summarise each of them below.
+
+Discovery: What it could do
+
+Although documentation and automated tests are produced by a BDD team, you can think of them as nice side-effects. The real goal is valuable, working software, and the fastest way to get there is through conversations between the people who are involved in imagining and delivering that software.
+
+BDD helps teams to have the right conversations at the right time so you minimise the amount of time spent in meetings and maximising the amount of valuable code you produce.
+
+We use structured conversations, called discovery workshops, that focus around real-world examples of the system from the users’ perspective. These conversations grow our team’s shared understanding of the needs of our users, of the rules that govern how the system should function, and of the scope of what needs to be done.
+
+It may also reveal gaps in our understanding, where we need more information before we know what to do.
+
+The scrutiny of a discovery session often reveals low-priority functionality that can be deferred from the scope of a user story, helping the team to work in smaller increments, improving their flow.
+
+If you’re new to BDD, discovery is the right place to start. You won’t get much joy from the other two practices until you’ve mastered discovery.
+
+Formulation: What it should do
+
+As soon as we have identified at least one valuable example from our discovery sessions, we can now formulate each example as structured documentation. This gives us a quick way to confirm that we really do have a shared understanding of what to build.
+
+In contrast to traditional documentation, we use a medium that can be read by both humans and computers, so that:
+
+We can get feedback from the whole team about our shared vision of what we’re building.
+
+We’ll be able to automate these examples to guide our development of the implementation.
+
+By writing this executable specification collaboratively, we establish a shared language for talking about the system. This helps us to use problem-domain terminology all the way down into the code.
+
+Automation: What it actually does
+
+Now that we have our executable specification, we can use it to guide our development of the implementation.
+
+Taking one example at a time, we automate it by connecting it to the system as a test. The test fails because we have not implemented the behaviour it describes yet. Now we develop the implementation code, using lower-level examples of the behaviour of internal system components to guide us as required.
+
+The automated examples work like guide-rails, helping us to keep our development work on track.
+
+When we need to come back and maintain the system later, the automated examples will help us to understand what the system is currently doing, and to make changes safely without unintentionally breaking anything.
+
+This rapid, repeatable feedback reduces the burden of manual regression testing, freeing people up to do more interesting work, like exploratory testing.
+
+-----------------------------------------------------------------------------------------------------------------------
+
+Software Quality Attributes
+1 comments
+
+Software Quality Attributes are features that facilitate the measurement of performance of a software product by Software Testing professionals and include attributes such as availability, interoperability, correctness, reliability, learnability, robustness, maintainability, readability, extensibility, testability, efficiency, and portability. High scores in Software Quality Attributes enable software architects to guarantee that a software application will perform as the specifications provided by the client.
+
+Availability
+This attribute is indicative as to whether an application will execute the tasks it is assigned to perform. Availability also includes certain concepts that relate to software security, performance, integrity, reliability, dependability, and confidentiality. In addition, top-notch availability indicates that a software-driven system will repair any operating faults so that service outage periods would not exceed a specific time value.
+
+Interoperability
+Software-driven systems could be required to communicate and act in tandem to solve certain tasks. Interoperability describes the ability of two systems to engage in the exchange of information via certain interfaces. Therefore, Software Quality Assurance engineers must examine the interoperability attribute in terms of both syntactic and semantic interoperability.
+
+Performance
+This attribute pertains to the ability of a software-driven system to conform to timing requirements. From a testing point of view, it implies that Software Testing engineers must check whether the system responds to various events within defined time limits. These events may occur in the form of clock events, process interruptions, messages, and requests from different users, and others.
+
+Testability
+Software testability indicates how well a software-driven system allows Software Testing professionals to conduct tests in line with predefined criteria. This attribute also assesses the ease with which Software Quality Assurance engineers can develop test criteria for a said system and its various components. Engineers can assess the testability of a system by using various techniques such as encapsulation, interfaces, patterns, low coupling, and more.
+
+Security
+This attribute measures the ability of a system to arrest and block malicious or unauthorized actions that could potentially destroy the system. The attribute assumes importance because security denotes the ability of the system to protect data and defend information from unauthorized access. Security also includes authorization and authentication techniques, protection against network attacks, data encryption, and such other risks. It is imperative for Software Testing professionals to regularly conduct updated security checks on systems.
+
+Usability
+Every software-driven system is designed for ease of use to accomplish certain tasks. The attribute of usability denotes the ease with which users are able to execute tasks on the system; it also indicates the kind of user support provided by the system. The most well-known principle for this property is KISS (Keep It Simple Stupid). In addition, Software Quality Assurance engineers must test software to check whether it supports different accessibility types of control for people with disabilities. Usability has a critical and long-standing bearing on the commercial fortunes of a software application or package.
+
+Functionality
+This attribute determines the conformity of a software-driven system with actual requirements and specifications. Most Software Testing professionals view this attribute as crucial and a foremost requirement of a modern application, and would therefore advocate the performance of tests that assess the desired functionality of a system in the initial stages of Software Testing initiatives.
+
+=----------------------------------------------------------------------------------------------------------------------------------------------------
+
+The Project Triangle
+0 comments
+
+The project management triangle is used by managers to analyze or understand the difficulties that may arise due to implementing and executing a project. All projects irrespective of their size will have many constraints. Although there are many such project constraints, these should not be barriers for successful project execution and for the effective decision making.
+
+There are three main interdependent constraints for every project; time, cost and scope. This is also known as Project Management Triangle. Let's try to understand each of the element of project triangle and then how to face challenges related to each.
+
+
+
+
+
+Time
+A project's activities can either take a shorter or longer amount of time to complete. Completion of tasks depends on a number of factors such as the number of people working on the project, experience, skills, etc. Time is a crucial factor that is uncontrollable. On the other hand, failure to meet the deadlines in a project can create adverse effects. Most often, the main reason for organizations to fail in terms of time is due to a lack of resources.
+
+Cost
+It's imperative for both the project manager and the organization to have an estimated cost when undertaking a project. Budgets will ensure that project is developed or implemented below a certain cost. Sometimes, project managers have to allocate additional resources in order to meet the deadlines with a penalty of additional project costs.
+
+Scope
+The scope looks at the outcome of the project undertaken. This consists of a list of deliverables, which need to be addressed by the project team. A successful project manager will know to manage both the scope of the project and any change in scope which impacts time and cost.
+
+Quality
+Quality is not a part of the project management triangle, but it is the ultimate objective of every delivery. Hence, the project management triangle represents implies quality.
+
+Many project managers are under the notion that 'high quality comes with high cost', which to some extent is true. By using low-quality resources to accomplish project deadlines does not ensure the success of the overall project.
+
+-----------------------------------------------------------------------------------------------------------------------
+
+Design Principles
+Uncle Bob (Robert C. Martin) came up with this idea of SOLID principles to avoid various problems in
+software design.
+. Viscosity: adopting a quick hack is felt to be easier than the correct one.
+. Immobility: It is hard to be DRY because the functionality you want to reuse is difficult to extract.
+. Needless repetition: most likely due to the immobility of code.
+. Needless complexity: the app's design reflects generality that was implemented before it was
+needed.
+The SOLID principle provides a necessary guidelines that may suggest improvements to avoid anti-patterns
+(code smells). The SOLID is an acronym of:
+. Single Responsibility Principle
+. Open/Closed Principle
+. Liskov Substitution Principle
+. Interface Segregation Principle (Replaced with "Demeter Principle")
+. Dependency Inversion Princ
+
+Single Responsibility Principle
+A class should have one and only one reason to change.
+Warning Smells
+Large class, poor LCOM (Lack of Cohesion of Methods) score, data clumps
+Refactoring fix
+Extract class, move methods
+Example Here is a simple class named Page
+
+import json
+class Page():
+ def __init__(self, title):
+ self._title = title
+ def get_title(self):
+ return self._title
+ def set_title(self, title):
+ self._title = title
+ def get_page(self):
+ return [self._title]
+
+ def format_json(self):
+ return json.dumps(self.get_page())
+
+
+This class has title property, and also a format_json() method that returns JSON String.
+What happens if we needed to have multiple ways to format the page title?
+One solution would be to extract the format function into separate class as:
+
+import json
+class Page:
+ def __init__(self, title):
+ self._title = title
+ def get_title(self):
+ return self._title
+ def set_title(self, title):
+ self._title = title
+ def get_page(self):
+ return [self._title]
+class JsonPageFormatter:
+ def format_json(page: Page):
+ return json.dumps(page.get_page())
+# We can add as many classes just for formatting outputs without modifying
+the original class.
+
+
+Open / Closed Principle
+Classes should be open for extension but closed for modification
+Warning Smells
+Conditional complexity, Case-based dispatcher
+Refactoring fix
+Use Strategy or Template design pattern, possibly combined with Abstract Factory Pattern; use Decorator
+to avoid explosion of subclasses
+Example:
+
+class Rectangle(ShapeInterface):
+ def __init__(self, width, height):
+ self._width = width
+ self._height = height
+
+def get_width(self):
+ return self._width
+ def set_width(self, width):
+ self._width = width
+ def get_height(self):
+ return self._height
+ def set_height(self, height):
+ self._height = height
+class Board:
+ def __init__(self, rectangles):
+ self._rectangles = rectangles
+
+ def setRectangles(self, rectangle):
+ self._rectangles.append(rectangle)
+ def getRectangles(self):
+ return self._rectangles
+
+ def calculateArea(self):
+ area = 0
+ for item in self._rectangles:
+ area += item.get_height() * item.get_width()
+ return area
+# What happens if we need to add more shapes like circle into this board
+and calculate total area?
+# We can implement area method in each of shape classes and create an
+Interface adhere to these classes.
+from abc import ABC, abstractmethod
+class ShapeInterface(ABC):
+ @abstractmethod
+ def area(self):
+ pass
+class Rectangle(ShapeInterface):
+ def __init__(self, width, height):
+ self._width = width
+ self._height = height
+ def get_width(self):
+ return self._width
+ def set_width(self, width):
+ self._width = width
+design-principles.md 5/22/2022
+4 / 5
+ def get_height(self):
+ return self._height
+ def set_height(self, height):
+ self._height = height
+
+ def area(self):
+ return self._height * self._width
+
+Liskov Substitution Principle
+Substituting a subclass for a class that should preserve correct program behavior.
+Created by Barbara Liskov in 1987.
+Objects should be replaceable by their subtypes without altering how the program works.
+Warning Smells
+Subclass destructively overrides an inherited method
+Refactoring Fix
+Replace inheritance with delegation
+Injection of Dependencies
+Name originally as Interface Segregation, which more applicable for static languages like Java and C#. It
+makes more sense to have Injection of Dependencies as a design principle for dynamic languages like
+Python, Ruby, PHP etc.
+Collaborating classes whose implementation may vary at runtime should depend on an intermediate
+"injected" dependency
+Warning Smells
+Unit tests that require ad hoc stubbing to create seams; constructors that hardwire a class to another
+class's constructor, rather that allowing runtime determination of which other class to use.
+Refactoring Fix
+Inject a dependency on a shared interface to isolate the classes; use Adapter, Facade, or Proxy Patterns as
+needed to make the interface uniform across variants
+Demeter Principle
+It was originally "Dependency Injection Principle", which is dealt in the prior principle. Law of Demeter
+states that "Talk to friends, not to strangers". Application of this law is suitable for our case here:
+design-principles.md 
+Speak only to your friends; treat your friends' friend as strangers
+Warning Smells
+Inappropriate intimacy, feature envy
+Refactoring Fix Delegate behaviors and call the delegate methods instead
+
+
+
